@@ -8,7 +8,7 @@ button.addEventListener('click', applyRandomColor)
 // Functions
 
 function generateColorHex(){
-    let digits = '0123456789ABCDEF'; // <-- Code Hex
+    let digits = '0123456789ABCDEF'; // <-- Code Hex Digits
     let colorHex = '#';
 
     for (let i=0; i < 6; i++){
